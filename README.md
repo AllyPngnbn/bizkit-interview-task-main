@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BizKit Interview Task
 
 You did it! After a grueling interview process, you are now an official employee of Phasebook, Mark Zuckerberg's younger brother, Marc Zuckerberg's startup.
@@ -157,3 +158,6 @@ That means that with the examples above, the following request: http://127.0.0.1
     {"id": "4", "name": "John Smith", "age": 28, "occupation": "Architect"}
   ]
   ```
+=======
+"# bizkit-interview-task-main" 
+>>>>>>> 9ebd57fd6e2a3753292ab8648b3995fbf5d0b772
