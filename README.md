@@ -1,13 +1,7 @@
 <<<<<<< HEAD
 # BizKit Interview Task
 
-You did it! After a grueling interview process, you are now an official employee of Phasebook, Mark Zuckerberg's younger brother, Marc Zuckerberg's startup.
-
-With Phasebook, you can keep track of, chat about, and share with others the different phases of your life.
-
-This repository contains some of Phasebook's core code. Your task, as a fresh hire, is to set up the repository, implement some improvements, and develop a new feature!
-
-Read on below to see what you need to do.
+I am Done with this interview!
 
 **Important Note:** This project was built using [Flask](https://flask.palletsprojects.com/en/2.2.x/), and while it's not necessary that you know Flask to finish the tasks here, it would help for you to read at least a bit about it.
 
